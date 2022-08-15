@@ -1,7 +1,7 @@
 # CG_HumanoidRobot
 NTUST CSIE Computer Graphics Midterm Project 1
 
-## Instructions
+## Operation
 - Menu: right mouse button
 - Rotate: w a s d
 - Speed: + -
